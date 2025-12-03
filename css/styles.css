@@ -17,3 +17,18 @@ footer{
     background-color: rgb(184, 181, 181);
     padding:1em;
 }
+h2{
+    color:rgb(184, 181, 181)
+}
+button
+{
+  height:30px;
+  width:150px;
+  border-radius:8px;
+  padding:10px;
+  font-size:15px;
+  font-family: 'Oswald', sans-serif;
+  height:52px;
+  cursor:pointer;
+  background-color:wheat;
+}
